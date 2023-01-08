@@ -41,8 +41,8 @@ const Cart = () => {
                                     <th>Price</th>
                                     <th>Model</th>
                                     <th>quantity</th>
-                                    <th >Operation</th>
-                                    <th >Operation</th>
+                                    <th >Operation Del</th>
+                                    <th >Operation Upd</th>
                                     {/* <th>Update Operation</th> */}
                                 </tr>
                             </thead>
