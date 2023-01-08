@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "shirt",
+            "price": 1500,
+            "brand": "J.",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/image-01-3.jpg"
+        },
+        {
+            "id": 2,
+            "name": " sleeping bag",
+            "price": 1000,
+            "brand": "J.",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-02-1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Table",
+            "price": 800,
+            "brand": "J.",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-11.jpg"
+        },
+        {
+            "id": 4,
+            "name": "product",
+            "price": 1000,
+            "brand": "J.",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-18.jpg"
+        },
+        {
+            "id": 5,
+            "name": "shirt",
+            "price": 1500,
+            "brand": "J.",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/image-01-3.jpg"
+        },
+        {
+            "id": 6,
+            "name": " sleeping bag",
+            "price": 1000,
+            "brand": "J.",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-02-1.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Table",
+            "price": 800,
+            "brand": "J.",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-11.jpg"
+        },
+        {
+            "id": 8,
+            "name": "product",
+            "price": 1000,
+            "brand": "J.",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-18.jpg"
+        }
+    ]
+}
